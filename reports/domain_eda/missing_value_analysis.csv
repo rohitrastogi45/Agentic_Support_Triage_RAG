@@ -1,0 +1,11 @@
+Column,Missing_Count,Missing_Percentage
+inbound_tweet_id,0,0.0
+author_id_in,0,0.0
+inbound_text,0,0.0
+inbound_created_at,0,0.0
+outbound_tweet_id,0,0.0
+author_id_out,0,0.0
+brand,0,0.0
+domain,0,0.0
+outbound_text,0,0.0
+outbound_created_at,0,0.0

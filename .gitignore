@@ -1,0 +1,27 @@
+# Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Vector Database
+chroma_db/
+
+# Ignore massive raw data and partitions
+data/raw/
+data/processed/partitions/
+
+# Ignore the original massive processed CSVs
+data/processed/review_support_pairs.csv
+data/processed/support_pairs.csv
+data/processed/useful_support_pairs.csv
+# Ignore original massive EDA report
+reports/domain_eda/issue_category_distribution.csv
+
+
+# IDE and OS files
+.vscode/
+Thumbs.db
+.DS_Store
